@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **full stack e-commerce project.**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
