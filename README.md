@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="sana-mukhtar" /> </p>
 
-- 🔭 I’m currently working on **Pinterest clone Project**
+- 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **Backend Development**
 
